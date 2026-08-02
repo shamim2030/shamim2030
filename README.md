@@ -120,15 +120,16 @@
 
 ### 📊 GitHub Statistics
 
+
 <p align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sashihab2026-sudo&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api?username=shamim2030&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" 
     height="170em"
   />
 
   <img 
-    src="https://streak-stats.demolab.com?user=sashihab2026-sudo&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" 
+    src="https://streak-stats.demolab.com?user=shamim2030&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" 
     height="170em"
   />
 
@@ -136,13 +137,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashihab2026-sudo&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim2030&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" 
     height="170em"
   />
 </p>
 
 ---
-
 ### 🐍 Contribution Snake
 
 <div align="center">
